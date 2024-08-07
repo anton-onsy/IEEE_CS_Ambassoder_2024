@@ -21,6 +21,6 @@ public class problem12 {
             maxSocks = Math.max(maxSocks, table.size());
         }
 
-        System.out.println(maxSocks);
+        System.out.println( maxSocks);
     }
 }

@@ -28,7 +28,6 @@ public class problem10 {
         return a;
     }
 
-    // Function to calculate the least common multiple (LCM)
     public static int Least_Common_Multiple(int a, int b) {
         return a * (b / Greatest_Common_Divisor(a, b));
     }

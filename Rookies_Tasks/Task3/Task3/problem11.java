@@ -31,7 +31,7 @@ public class problem11 {
                 }
             }
 
-            System.out.println(solutions.size() + " " + String.join(" ", solutions));
+            System.out.println(solutions.size() + " " + String.join(" ", solutions ));
         }
     }
 }
